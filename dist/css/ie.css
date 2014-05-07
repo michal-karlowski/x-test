@@ -1,0 +1,19 @@
+.side-block-a {
+    behavior: url(PIE.htc);
+}
+
+.news .products > h2 {
+    border-radius: 10px 0 0 0;
+    filter: none;
+    behavior: url(PIE.htc);
+}
+
+.news .expansion > h2 {
+    border-radius: 0 10px 0 0;
+    filter: none;
+    behavior: url(PIE.htc);
+}
+
+.news {
+    behavior: url(PIE.htc);
+}
