@@ -145,7 +145,7 @@ a {
     }
     figure {
       float: left;
-      margin: 0px;
+      margin: 5px 0 0;
       border: 1px solid #eae1d4;
       img {
         display: block;
@@ -197,7 +197,7 @@ a {
   background: #fff;
   h2 {
     padding: 20px;
-    margin: 0 0 20px;
+    margin: 0 0 15px;
     color: $main-color;
     font: bold 14px Arial, Helvetica, sans-serif;
     text-transform: uppercase;
@@ -243,12 +243,12 @@ a {
   }
 }
 
-.rendom-articles {
+.random-articles {
   list-style: none;
   padding: 0;
   margin: 0 20px 20px;
   li {
-    margin-bottom: 10px;
+    margin-bottom: 15px;
     padding-left: 20px;
     font-size: 12px;
     background: transparent url("../../src/img/bullet-a.gif") no-repeat 0 3px;
@@ -262,7 +262,7 @@ a {
 }
 
 .our-address {
-  margin: 0 20px 20px;
+  margin: 0 20px 15px 20px;
   color: #97866f;
   font: normal 12px/2 Arial, Helvetica, sans-serif;
 }

@@ -2,7 +2,7 @@
 
     Project: Project Template Test
     Author: XHTMLized.com
-    Last updated: Tue May 06 2014 20:48:12
+    Last updated: Wed May 07 2014 21:41:00
 
     1. Normalize
     2. Common
@@ -568,7 +568,7 @@ a {
 }
 .news article figure {
   float: left;
-  margin: 0px;
+  margin: 5px 0 0;
   border: 1px solid #eae1d4;
 }
 .news article figure img {
@@ -618,7 +618,7 @@ a {
 }
 .side-block-a h2 {
   padding: 20px;
-  margin: 0 0 20px;
+  margin: 0 0 15px;
   color: #e61052;
   font: bold 14px Arial, Helvetica, sans-serif;
   text-transform: uppercase;
@@ -663,26 +663,26 @@ a {
   background: transparent url("../../src/img/sprite-social.png") no-repeat -44px 0;
 }
 
-.rendom-articles {
+.random-articles {
   list-style: none;
   padding: 0;
   margin: 0 20px 20px;
 }
-.rendom-articles li {
-  margin-bottom: 10px;
+.random-articles li {
+  margin-bottom: 15px;
   padding-left: 20px;
   font-size: 12px;
   background: transparent url("../../src/img/bullet-a.gif") no-repeat 0 3px;
 }
-.rendom-articles li a {
+.random-articles li a {
   text-decoration: none;
 }
-.rendom-articles li a:hover {
+.random-articles li a:hover {
   text-decoration: underline;
 }
 
 .our-address {
-  margin: 0 20px 20px;
+  margin: 0 20px 15px 20px;
   color: #97866f;
   font: normal 12px/2 Arial, Helvetica, sans-serif;
 }
