@@ -2,7 +2,7 @@
 
     Project: Project Template Test
     Author: XHTMLized.com
-    Last updated: Wed May 07 2014 21:41:00
+    Last updated: Thu May 08 2014 07:42:07
 
     1. Normalize
     2. Common
@@ -559,10 +559,10 @@ a {
   background: transparent url("../../src/img/border-b.gif") repeat 0 0;
 }
 .news article {
-  margin: 0 20px 15px;
+  margin: 0 20px 20px;
 }
 .news article h3 {
-  margin: 0 0 20px 0;
+  margin: 0 0 15px 0;
   font: bold 13px Arial, Helvetica, sans-serif;
   color: #000;
 }
@@ -617,7 +617,7 @@ a {
   background: #fff;
 }
 .side-block-a h2 {
-  padding: 20px;
+  padding: 19px 20px 20px;
   margin: 0 0 15px;
   color: #e61052;
   font: bold 14px Arial, Helvetica, sans-serif;
@@ -666,11 +666,11 @@ a {
 .random-articles {
   list-style: none;
   padding: 0;
-  margin: 0 20px 20px;
+  margin: 0 20px 15px;
 }
 .random-articles li {
   margin-bottom: 15px;
-  padding-left: 20px;
+  padding-left: 25px;
   font-size: 12px;
   background: transparent url("../../src/img/bullet-a.gif") no-repeat 0 3px;
 }
@@ -684,7 +684,7 @@ a {
 .our-address {
   margin: 0 20px 15px 20px;
   color: #97866f;
-  font: normal 12px/2 Arial, Helvetica, sans-serif;
+  font: normal 12px/1.7 Arial, Helvetica, sans-serif;
 }
 
 /* Footer */

@@ -137,9 +137,9 @@ a {
     }
   }
   article {
-    margin: 0 20px 15px;
+    margin: 0 20px 20px;
     h3 {
-      margin: 0 0 20px 0;
+      margin: 0 0 15px 0;
       font: bold 13px Arial, Helvetica, sans-serif;
       color: #000;
     }
@@ -196,7 +196,7 @@ a {
   box-shadow: 2px 2px 0 #dfd7ce;
   background: #fff;
   h2 {
-    padding: 20px;
+    padding: 19px 20px 20px;
     margin: 0 0 15px;
     color: $main-color;
     font: bold 14px Arial, Helvetica, sans-serif;
@@ -246,10 +246,10 @@ a {
 .random-articles {
   list-style: none;
   padding: 0;
-  margin: 0 20px 20px;
+  margin: 0 20px 15px;
   li {
     margin-bottom: 15px;
-    padding-left: 20px;
+    padding-left: 25px;
     font-size: 12px;
     background: transparent url("../../src/img/bullet-a.gif") no-repeat 0 3px;
     a {
@@ -264,7 +264,7 @@ a {
 .our-address {
   margin: 0 20px 15px 20px;
   color: #97866f;
-  font: normal 12px/2 Arial, Helvetica, sans-serif;
+  font: normal 12px/1.7 Arial, Helvetica, sans-serif;
 }
 
 /* Footer */
